@@ -21,7 +21,7 @@ Created by - Sanjay
 ## Instructions to Install and Setup
 
 ### Setup and run server - 
-1. Run the following command to install all the dependencies for node -> ```npm install or npm init```
+1. Run the following command to install all the dependencies for node -> ```npm init then npm install or npm install```
 2. Required to add .env file
 3. In that required to add MONGODB_URI, PORT,JWT_SECRET
 4. npm run start
