@@ -1,7 +1,7 @@
 
 # Implementation of Rest-apis
 
-Server is live at please visit here: https://spacewa1ker.onrender.com
+Server is live at please visit here: https://spacewa1ker.onrender.com/
 Created by - Sanjay
 
 ## End Points
