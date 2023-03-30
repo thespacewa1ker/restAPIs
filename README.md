@@ -5,7 +5,7 @@ Server is live at please visit here: https://spacewa1ker.onrender.com/
 Created by - Sanjay
 
 ## End Points
-1. **Register and Login endpoint ** - Provides basic jwt authentication.
+1. **Register and Login endpoint** - Provides basic jwt authentication.
 2. **getQuestion endpoint** - <br/> 1. Bring all the questions.  <br /> 2. currently all this questions are hardcoded.
 3. **save endpoint** - <br /> 1. created a transaction to insert data to mongodb <br /> 2. Inserts data only when all the 5 schema data inserted successfully <br /> 3. Else it will roll back without inserting into any. 
 4. **getAllData endpoint** - <br /> 1. Fetchs data from mongodb collections(5 collections) <br /> 2. populate them and send the response in json format. 
